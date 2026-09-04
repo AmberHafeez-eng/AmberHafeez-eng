@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AmberHafeez-eng">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=b5bbc4&fontSize=54&height=90&width=826&text=Hello!%20I'm%20Amber%20Hafeez" alt="Hello! I&#39;m Amber Hafeez" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=61748f&fontSize=54&height=90&width=826&text=Hello!%20I'm%20Amber%20Hafeez" alt="Hello! I&#39;m Amber Hafeez" />
   </a>
 </p>
 
@@ -47,20 +47,8 @@ Electrical &amp; Computer Engineering student who likes building things that liv
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=AmberHafeez-eng&show_icons=true&theme=tokyonight&title_color=b5bbc4&icon_color=b5bbc4&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=AmberHafeez-eng&layout=compact&theme=tokyonight&title_color=b5bbc4&icon_color=b5bbc4&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmberHafeez-eng&bg_color=00000000&color=b5bbc4&line=b5bbc4&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=AmberHafeez-eng&show_icons=true&theme=default&title_color=61748f&icon_color=61748f&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=AmberHafeez-eng&layout=compact&theme=default&title_color=61748f&icon_color=61748f&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ---
